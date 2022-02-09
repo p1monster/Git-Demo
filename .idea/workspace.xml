@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e65ebdc9-d884-4b30-864e-5490d043d43f" name="Changes" comment="第3次更改" />
+    <list default="true" id="e65ebdc9-d884-4b30-864e-5490d043d43f" name="Changes" comment="第5次更改" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644393821793</updated>
-      <workItem from="1644393823239" duration="662000" />
+      <workItem from="1644393823239" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="第一次更改">
       <created>1644393903901</created>
@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644394467861</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第4次更改">
+      <created>1644394683566</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644394683566</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第5次更改">
+      <created>1644394774643</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644394774643</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +132,8 @@
     <MESSAGE value="第一次更改" />
     <MESSAGE value="第2次更改" />
     <MESSAGE value="第3次更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="第3次更改" />
+    <MESSAGE value="第4次更改" />
+    <MESSAGE value="第5次更改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第5次更改" />
   </component>
 </project>
