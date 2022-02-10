@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e65ebdc9-d884-4b30-864e-5490d043d43f" name="Changes" comment="第3次更改" />
+    <list default="true" id="e65ebdc9-d884-4b30-864e-5490d043d43f" name="Changes" comment="第6次更改">
+      <change afterPath="$PROJECT_DIR$/demo/src/MainTest1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="24rfr9oZO0Nr7QHxOwqMHWEvViL" />
   <component name="ProjectViewState">
@@ -113,6 +116,7 @@
         <entry key="e89d3765-2eac-4e7a-b4dd-26d1772621a6" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次更改" />
